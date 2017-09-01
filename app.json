@@ -2,7 +2,9 @@
   "pages": [
     "pages/index/index",
     "pages/logs/logs",
-    "pages/create/create"
+    "pages/create/create",
+    "pages/init/init",
+    "pages/join/join"
   ],
   "window": {
     "backgroundTextStyle": "light",

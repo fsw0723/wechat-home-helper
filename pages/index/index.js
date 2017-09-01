@@ -25,7 +25,7 @@ Page({
 
     if(true) {
       wx.redirectTo({
-        url: '../create/create'
+        url: '../init/init'
       })
     }
   }

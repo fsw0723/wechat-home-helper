@@ -1,0 +1,8 @@
+<view class="page">
+    <view class="page__bd page__bd_spacing">
+        <button class="weui-btn" type="primary" bindtap="redirectToCreate">创建新合租管理</button>
+    </view>
+    <view class="page__bd page__bd_spacing">
+        <button class="weui-btn" type="primary" bindtap="redirectToJoin">加入合租</button>
+    </view>
+</view>

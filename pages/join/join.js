@@ -1,4 +1,4 @@
-// pages/logs/index.js
+// join.js
 Page({
 
   /**
